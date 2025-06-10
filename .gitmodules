@@ -4,3 +4,7 @@
 [submodule "submodule2-test-git"]
 	path = submodule2-test-git
 	url = https://github.com/Abinavharsha/submodule2-test-git.git
+[submodule "submodule3-test-git"]
+	path = submodule3-test-git
+	url = https://github.com/Abinavharsha/submodule3-server-test.git
+	branch = main
